@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Chengyou Xu (Cheney) 👋
 
-<!--
-**CheneyX2000/CheneyX2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MS in Computer Science @ Northeastern**  
+Passionate about **distributed systems** and **full-stack** dev. Currently open to **Internship/Co-op** (Summer/Fall 2025) in Boston, MA.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Snapshot
+- **Languages:** TypeScript, Python, Rust, Java
+- **Frameworks:** React, Express, Node.js, Tokio
+- **Databases:** MongoDB, MySQL, Redis
+- **Distributed Systems:** Paxos, Raft, Java RMI
+
+---
+
+## 🚀 Featured Projects
+- **[Simple Redis with Rust](https://github.com/CheneyX2000/simple-redis-with-rust)**  
+  WIP async data store using Tokio for concurrency
+- **Paxos-Based KV Store**  
+  Java-based replica store with Paxos fault tolerance
+- **Fake Stack Overflow**  
+  MERN Q&A platform for 1,000+ daily users
+
+---
+
+## 🎯 Interests
+- High-concurrency backend
+- Rust systems & concurrency
+- Cloud deployment & DevOps
+
+---
+
+### 🤝 Let’s Connect
+[Email](mailto:xuchengyou728@gmail.com) • [LinkedIn](https://www.linkedin.com/in/cheney-sheu/)
+
+> *Thanks for visiting! Feel free to check out my pinned repos or reach out.* 
