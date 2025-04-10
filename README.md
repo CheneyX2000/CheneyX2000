@@ -19,7 +19,7 @@ Passionate about **distributed systems** and **full-stack** dev. Currently open 
 - **Paxos-Based KV Store**  
   Java-based replica store with Paxos fault tolerance
 - **Fake Stack Overflow**  
-  MERN Q&A platform for 1,000+ daily users
+  MERN Q&A platform
 
 ---
 
