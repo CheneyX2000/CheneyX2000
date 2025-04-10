@@ -1,12 +1,12 @@
 # Hi, I'm Chengyou Xu (Cheney) 👋
 
 **MS in Computer Science @ Northeastern**  
-Passionate about **distributed systems** and **full-stack** dev. Currently open to **Internship/Co-op** (Summer/Fall 2025) in Boston, MA.
+Passionate about **distributed systems** and **full-stack** dev. Currently open to **Internship/Co-op** (Summer/Fall 2025).
 
 ---
 
 ## 🛠️ Tech Snapshot
-- **Languages:** TypeScript, Python, Rust, Java
+- **Languages:** TypeScript, Python, Rust, Java, C
 - **Frameworks:** React, Express, Node.js, Tokio
 - **Databases:** MongoDB, MySQL, Redis
 - **Distributed Systems:** Paxos, Raft, Java RMI
