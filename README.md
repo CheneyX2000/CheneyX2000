@@ -16,6 +16,6 @@
   MERN Q&A platform
 ---
 ### 🤝 Let’s Connect
-My [Email](mailto:xuchengyou728@gmail.com) 
-My [LinkedIn](https://www.linkedin.com/in/cheney-sheu/)
-From time to time I share my thoughts on [Medium](https://medium.com/@chengyouxu)
+- My [Email](mailto:xuchengyou728@gmail.com) 
+- My [LinkedIn](https://www.linkedin.com/in/cheney-sheu/)
+- From time to time I share my thoughts on [Medium](https://medium.com/@chengyouxu)
