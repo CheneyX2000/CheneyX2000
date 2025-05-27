@@ -1,5 +1,5 @@
 ## Hi, I'm Chengyou Xu (Cheney)
-** MS in Computer Science @ Northeastern** 
+**MS in Computer Science @ Northeastern** 
 ---
 ## 🛠️ Tech Snapshot
 - **Languages:** TypeScript, Python, Rust, Java, C
@@ -16,8 +16,6 @@
   MERN Q&A platform
 ---
 ### 🤝 Let’s Connect
-[Email](mailto:xuchengyou728@gmail.com) 
-[LinkedIn](https://www.linkedin.com/in/cheney-sheu/)
-[Medium](https://medium.com/@chengyouxu)
-
-> *Thanks for visiting! Feel free to check out my pinned repos or reach out.* 
+My [Email](mailto:xuchengyou728@gmail.com) 
+My [LinkedIn](https://www.linkedin.com/in/cheney-sheu/)
+From time to time I share my thoughts on [Medium](https://medium.com/@chengyouxu)
