@@ -1,5 +1,5 @@
-# Hi, I'm Chengyou Xu (Cheney)
-**MS in Computer Science @ Northeastern**  
+## Hi, I'm Chengyou Xu (Cheney)
+**MS in Computer Science @ Northeastern** 
 Passionate about **distributed systems** and **full-stack** dev. Currently open to **Internship/Co-op** (Summer/Fall 2025).
 ---
 ## 🛠️ Tech Snapshot
