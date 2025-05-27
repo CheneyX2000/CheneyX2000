@@ -16,8 +16,8 @@ Passionate about **distributed systems** and **full-stack** dev. Currently open 
 ## 🚀 Featured Projects
 - **[Simple Redis with Rust](https://github.com/CheneyX2000/simple-redis-with-rust)**  
   WIP async data store using Tokio for concurrency
-- **Paxos-Based KV Store**  
-  Java-based replica store with Paxos fault tolerance
+- **[Raft Distributed KV Storage System](https://github.com/CheneyX2000/raft_distributed_KV_storage)**  
+  Java-based distributed KV storage with Raft and Protobuf
 - **Fake Stack Overflow**  
   MERN Q&A platform
 
