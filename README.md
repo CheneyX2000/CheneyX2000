@@ -1,6 +1,5 @@
 ## Hi, I'm Chengyou Xu (Cheney)
-**MS in Computer Science @ Northeastern** 
-Passionate about **distributed systems** and **full-stack** dev. Currently open to **Internship/Co-op** (Summer/Fall 2025).
+** MS in Computer Science @ Northeastern** 
 ---
 ## 🛠️ Tech Snapshot
 - **Languages:** TypeScript, Python, Rust, Java, C
@@ -17,6 +16,8 @@ Passionate about **distributed systems** and **full-stack** dev. Currently open 
   MERN Q&A platform
 ---
 ### 🤝 Let’s Connect
-[Email](mailto:xuchengyou728@gmail.com) • [LinkedIn](https://www.linkedin.com/in/cheney-sheu/)
+[Email](mailto:xuchengyou728@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/cheney-sheu/)
+[Medium](https://medium.com/@chengyouxu)
 
 > *Thanks for visiting! Feel free to check out my pinned repos or reach out.* 
