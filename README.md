@@ -17,5 +17,5 @@
 ---
 ### 🤝 Let’s Connect
 - My [Email](mailto:xuchengyou728@gmail.com) 
-- My [LinkedIn](https://www.linkedin.com/in/cheney-sheu/)
+- Not really active but I still have a [LinkedIn](https://www.linkedin.com/in/cheney-sheu/)
 - From time to time I share my thoughts on [Medium](https://medium.com/@chengyouxu)
