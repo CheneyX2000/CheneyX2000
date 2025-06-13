@@ -1,5 +1,5 @@
 ## Hi, I'm Chengyou Xu (Cheney)
-**MS in Computer Science @ Northeastern** 
+*MS in Computer Science @ Northeastern* 
 ---
 ## 🛠️ Tech Snapshot
 - **Languages:** TypeScript, Python, Rust, Java, C
