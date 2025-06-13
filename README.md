@@ -12,7 +12,7 @@
   WIP async data store using Tokio for concurrency
 - **[Raft Distributed KV Storage System](https://github.com/CheneyX2000/raft_distributed_KV_storage)**  
   Java-based distributed KV storage with Raft and Protobuf
-- **[another RAG](https://github.com/CheneyX2000/another_RAG)**
+- **[another RAG](https://github.com/CheneyX2000/another_RAG)** 
   A production-ready RAG (Retrieval-Augmented Generation) system built with Python, FastAPI, PgVector, and model hot-switching capabilities.
 ---
 ### 🤝 Let’s Connect
