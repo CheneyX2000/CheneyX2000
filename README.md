@@ -2,7 +2,7 @@
 - **Languages:** TypeScript, Python, Rust, Java, C
 - **Frameworks:** React, Express, Node.js, Tokio, FastAPI
 - **Databases:** MongoDB, MySQL, Redis, PostgreSQL
-- **Distributed Systems:** Paxos, Raft, Java RMI
+- **Distributed Systems:** Paxos, Raft, Java RMI, MicroServices
 ---
 ## 🚀 Projects
 - **[Simple Redis with Rust](https://github.com/CheneyX2000/simple-redis-with-rust)** Simple async high-concurrency in-memory KV data store using Tokio.
@@ -13,6 +13,6 @@
 - [From time to time I share my thoughts on Medium](https://medium.com/@chengyouxu)
 ---
 ### 🤝 Let’s Connect
-- [Email](mailto:xuchengyou728@gmail.com) 
+- [xuchengyou728@gmail.com](mailto:xuchengyou728@gmail.com) 
 - [LinkedIn](https://www.linkedin.com/in/cheney-sheu/)
 
