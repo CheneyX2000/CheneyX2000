@@ -10,7 +10,9 @@
 - **[PR RAG](https://github.com/CheneyX2000/another_RAG)** A production-ready RAG (Retrieval-Augmented Generation) system built with Python, FastAPI, PgVector, and model hot-switching capabilities.
 ---
 ### 🖊 [Blogs](https://medium.com/@chengyouxu)
-- [From time to time I share my thoughts on Medium](https://medium.com/@chengyouxu)
+From time to time I share my learnings and thoughts on Medium
+- [Rust Ownership Intuition: Manage Data like Properties!](https://medium.com/@chengyouxu/rust-ownership-intuition-managing-data-like-properties-rust-design-philosophy-c60cbd3872bd)
+- [Why Adopt Pin/Unpin Over Relative Pointers?](https://medium.com/@chengyouxu/why-adopt-pin-unpin-over-relative-pointers-dca2080ccfe4)
 ---
 ### 🤝 Let’s Connect
 - [xuchengyou728@gmail.com](mailto:xuchengyou728@gmail.com) 
