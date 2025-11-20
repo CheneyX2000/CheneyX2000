@@ -11,12 +11,13 @@ Former Research Engineer @ NEU Human-centered AI Lab.
 - **Infra & Data:** PostgreSQL, Redis, Kafka, Docker, Kubernetes (basic), AWS/GCP
 - **ML / AI:** PyTorch, RAG pipelines, LLM evaluation & tooling
 
+---
 ## ⭐ Selected Projects
 
 | Project | Tech | What it is |
 | ------ | ---- | ---------- |
 | [human-agent-collab](https://github.com/neuhai/human-agent-collab) | TypeScript, React, Node, Docker, PostgreSQL, Redis, Kafka | Human–agent collaboration platform for HCI researchers with MTurk integration and multi-agent orchestration. |
-| [paxos-kv] | Java, gRPC, Paxos, Docker | Distributed key–value store implementing multi-Paxos and fault-tolerant replication. |
+| paxos-kv | Java, gRPC, Paxos, Docker | Distributed key–value store implementing multi-Paxos and fault-tolerant replication. |
 | [simple-redis-rust](https://github.com/CheneyX2000/simple-redis-with-rust) | Rust, Tokio | Redis-like in-memory data store implementing the RESP protocol and basic persistence. |
 | [PR_RAG](https://github.com/CheneyX2000/PR_RAG) | Python, FastAPI, PgVector | Retrieval-augmented generation service with vector search and pluggable evaluation hooks. |
 | [Forward_Forward_Algorithm](https://github.com/CheneyX2000/Forward_Forward_Algorithm) | Python, NumPy, Jupyter | Experimental implementation of Hinton's Forward-Forward training algorithm. |
