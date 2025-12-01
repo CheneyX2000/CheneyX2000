@@ -1,8 +1,8 @@
 ## Hi, I'm Cheney 👋
 
-MSCS @ Northeastern  
-Building low-level systems and infrastructure for LLM / AI applications.  
+MSCS @ Northeastern
 Former Research Engineer @ NEU Human-centered AI Lab.
+Building low-level systems and infrastructure for LLM / AI applications.  
 
 ---
 ## 🧠 Tech Focus
