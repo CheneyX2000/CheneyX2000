@@ -4,7 +4,7 @@
 
 **MSCS @ Northeastern · Former Research Engineer @ NEU Human-centered AI Lab · Tech Member of GetPitchin.com**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=36BCF7FF&center=true&vCenter=true&random=false&width=520&lines=AI+Engineer+%7C+ML+Enthusiast;LLM+Fine-tuning+%26+Alignment;RL+%7C+RLHF+%7C+DPO;TypeScript+AI+Agent+Full-Stack;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=70A5FD&center=true&vCenter=true&random=false&width=520&lines=AI+Engineer+%7C+ML+Enthusiast;LLM+Fine-tuning+%26+Alignment;RL+%7C+RLHF+%7C+DPO;TypeScript+AI+Agent+Full-Stack;Open+Source+Contributor)](https://git.io/typing-svg)
 
 </div>
 
@@ -49,19 +49,19 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheneyX2000&layout=donut&theme=radical&hide_border=true&langs_count=8&card_width=420" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheneyX2000&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&hide=batchfile,dockerfile" width="420" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=CheneyX2000&background=141321&border=00000000&stroke=fe428e&ring=fe428e&fire=f8d847&currStreakNum=a9fef7&sideNums=a9fef7&currStreakLabel=fe428e&sideLabels=fe428e&dates=a9fef7&card_width=700" width="700" />
+  <img src="https://streak-stats.demolab.com/?user=CheneyX2000&theme=tokyonight&hide_border=true&card_width=700" width="700" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CheneyX2000&bg_color=141321&color=a9fef7&title_color=fe428e&line=fe428e&point=f8d847&area_color=fe428e&area=true&hide_border=true" width="700" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CheneyX2000&theme=tokyo-night&hide_border=true&area=true" width="700" />
 </div>
 
 <!-- 
@@ -91,8 +91,4 @@
 
 ---
 
-<div align="center">
-
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shyucheney@gmail.com)
-
-</div>
