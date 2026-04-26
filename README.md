@@ -4,6 +4,10 @@ MSCS @ Northeastern
 Former Research Engineer @ NEU Human-centered AI Lab.
 
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CheneyX2000&layout=compact&theme=radical)
+
+---
 ### 🖊 [Writings on Medium](https://medium.com/@cheneyshyu)
 From time to time I share my learnings and thoughts on Medium
 - [Rust Ownership Intuition: Manage Data like Properties!](https://medium.com/@chengyouxu/rust-ownership-intuition-managing-data-like-properties-rust-design-philosophy-c60cbd3872bd)
