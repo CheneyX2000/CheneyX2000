@@ -49,27 +49,34 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheneyX2000&layout=donut&theme=radical&hide_border=true&langs_count=8" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheneyX2000&layout=donut&theme=radical&hide_border=true&langs_count=8&card_width=420" width="420" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=CheneyX2000&theme=radical&hide_border=true" width="520" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CheneyX2000&theme=redical&hide_border=true&area=true" width="780" />
+  <img src="https://streak-stats.demolab.com/?user=CheneyX2000&background=141321&border=00000000&stroke=fe428e&ring=fe428e&fire=f8d847&currStreakNum=a9fef7&sideNums=a9fef7&currStreakLabel=fe428e&sideLabels=fe428e&dates=a9fef7&card_width=700" width="700" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CheneyX2000&bg_color=141321&color=a9fef7&title_color=fe428e&line=fe428e&point=f8d847&area_color=fe428e&area=true&hide_border=true" width="700" />
 </div>
 
 <!-- 
-  🐍 Contribution Snake (optional — requires GitHub Actions setup)
+  🐍 Contribution Snake — requires GitHub Actions setup
   See: https://github.com/Platane/snk
-  Uncomment below after setting up the workflow:
+  Uncomment after setting up the workflow:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CheneyX2000/CheneyX2000/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CheneyX2000/CheneyX2000/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/CheneyX2000/CheneyX2000/output/github-snake.svg" />
-</picture>
+<br/>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CheneyX2000/CheneyX2000/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CheneyX2000/CheneyX2000/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/CheneyX2000/CheneyX2000/output/github-snake.svg" width="700" />
+  </picture>
+</div>
 -->
 
 ---
