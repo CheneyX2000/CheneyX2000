@@ -4,7 +4,7 @@
 
 **MSCS @ Northeastern · Former Research Engineer @ NEU Human-centered AI Lab · Tech Member of GetPitchin.com**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=520&lines=AI+Engineer+%7C+ML+Enthusiast;LLM+Fine-tuning+%26+Alignment;RL+%7C+RLHF+%7C+DPO;TypeScript+AI+Agent+Full-Stack;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=36BCF7FF&center=true&vCenter=true&random=false&width=520&lines=AI+Engineer+%7C+ML+Enthusiast;LLM+Fine-tuning+%26+Alignment;RL+%7C+RLHF+%7C+DPO;TypeScript+AI+Agent+Full-Stack;Open+Source+Contributor)](https://git.io/typing-svg)
 
 </div>
 
@@ -49,8 +49,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CheneyX2000&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheneyX2000&layout=pie&theme=radical&hide_border=true&langs_count=8" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheneyX2000&layout=donut&theme=radical&hide_border=true&langs_count=8" height="180" />
 </div>
 
 <div align="center">
