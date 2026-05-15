@@ -86,6 +86,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Rust Ownership Intuition: Manage Data like Properties!](https://medium.com/@chengyouxu/rust-ownership-intuition-managing-data-like-properties-rust-design-philosophy-c60cbd3872bd)
 - [Why Adopt Pin/Unpin Over Relative Pointers?](https://medium.com/@chengyouxu/why-adopt-pin-unpin-over-relative-pointers-dca2080ccfe4)
+- [I Tried Four Smarter Ways to Select Positions in GCG. They All Made It Worse — and Here’s Why That’s Interesting](https://medium.com/@cheneyshyu/i-tried-four-smarter-ways-to-select-positions-in-gcg-f0ed2fb64023)
 - ......
 <!-- BLOG-POST-LIST:END -->
 
