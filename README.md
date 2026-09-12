@@ -37,41 +37,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheneyX2000&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&hide=batchfile,dockerfile" width="420" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=CheneyX2000&theme=tokyonight&hide_border=true&card_width=700" width="700" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CheneyX2000&theme=tokyo-night&hide_border=true&area=true" width="700" />
-</div>
-
-<!-- 
-  🐍 Contribution Snake — requires GitHub Actions setup
-  See: https://github.com/Platane/snk
-  Uncomment after setting up the workflow:
-
-<br/>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CheneyX2000/CheneyX2000/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CheneyX2000/CheneyX2000/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/CheneyX2000/CheneyX2000/output/github-snake.svg" width="700" />
-  </picture>
-</div>
--->
-
----
-
 ### 🖊 Writings on [Medium](https://medium.com/@cheneyshyu)
 
 <!-- BLOG-POST-LIST:START -->
