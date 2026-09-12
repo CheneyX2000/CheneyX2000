@@ -10,15 +10,6 @@
 
 ---
 
-### 🧠 What I Do
-
-- **LLM Alignment & Fine-tuning** — SFT, RLHF, DPO, reward modeling, and evaluation pipelines
-- **Reinforcement Learning** — Policy optimization, value-based methods, multi-agent systems
-- **AI Agent Engineering** — Full-stack TypeScript agents with tool-use, MCP, and orchestration
-- **ML Infrastructure** — Training pipelines, model serving, distributed systems on AWS
-
----
-
 ### 🛠️ Tech Stack
 
 **ML / AI**
